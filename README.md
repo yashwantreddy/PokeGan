@@ -28,11 +28,11 @@ you can edit the **dcgan.py** file and change the epochs/batch size.
 
 All results -i.e generated pokemon - are stored in the **images** folder.
 
-![genpoke](generated_pokemon/pokegan (18).jpg)
+![genpoke](generated_pokemon/pokegan (18).png)
 
-![genpoke](generated_pokemon/pokegan (19).jpg)
+![genpoke](generated_pokemon/pokegan (19).png)
 
-![genpoke](generated_pokemon/pokegan (20).jpg)
+![genpoke](generated_pokemon/pokegan (20).png)
 
 
 
