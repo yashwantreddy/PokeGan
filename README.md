@@ -4,8 +4,7 @@ A Deep Convolutional GAN that is capable of generating new Pokémon!
 ![](pokegan.gif)
 
 <p align="center">
-  <img src="pokegan summ.jpg" 
-       width="430" height="322">
+  <img src="pokegan summ.jpg">
 </p>
 
 
