@@ -1,6 +1,8 @@
 # PokeGan
 A Deep Convolutional GAN that is capable of generating new Pokémon!
 
+![](pokegan.gif)
+
 <p align="center">
   <img src="./generated_pokemon/pokegan (18).png" 
        width="430" height="322">
